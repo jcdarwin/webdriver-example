@@ -1,0 +1,21 @@
+{
+  "name": "webdriver-example",
+  "version": "0.1.0",
+  "description": "Simple example of testing using webdriver.io",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Jason Darwin",
+  "license": "MIT",
+  "config": {
+    "host": "journalsurf.co.nz"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "gulp": "^3.9.0",
+    "gulp-webdriver": "^0.1.1"
+  },
+  "dependencies": {
+    "del": "^1.2.1"
+  }
+}
